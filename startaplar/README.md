@@ -536,6 +536,8 @@ Baholar 1 dan 5 gacha. *Texnik qiyinlik*da 5 — eng qiyin.
 
 🏆 **Asosiy tavsiya:** eng yaxshi "tavakkal / natija" nisbati — **Ishlanma AI + SkanBall** juftligi. Ikkalasi ham ustozning eng katta og'rig'ini (tayyorgarlik va tekshirish) hal qiladi, arzon quriladi va qolgan barcha mahsulotlar uchun auditoriya yig'ib beradi.
 
+> **Yangilanish — moliyaviy model:** 24 oylik xarajat va daromad hisob-kitobi ([PDF: amalga oshirish rejasi va xarajatlar](ustozlar-uchun-10-startap-reja.pdf)) bu tavsiyani aniqlashtirdi. Eng arzon va tez o'zini oqlaydiganlari — **Repetitor Pro** va **Toifa+**; Ishlanma AI narxi past bo'lgani uchun ko'p foydalanuvchi talab qiladi. Tavsiya etilgan ketma-ketlik: **Repetitor Pro → Toifa+ → Ishlanma AI + SkanBall**.
+
 ### Ekotizim: 10 ta g'oya bitta "ustoz super-ilovasi"ga birlashadi
 
 ```mermaid
