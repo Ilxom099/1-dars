@@ -5,7 +5,7 @@
 > **Muhim:** barcha narx, xarajat va daromad hisob-kitoblari — tekshirilishi kerak bo'lgan **gipotezalar**, kafolat emas.
 > Hisoblarda shartli ravishda **1 $ ≈ 12 500 so'm** olindi. Tayyorlangan sana: 2026-yil sentabr.
 >
-> **Shuningdek:** [amalga oshirish rejasi va xarajatlar (PDF)](ustozlar-uchun-10-startap-reja.pdf) · [O'zbekiston uchun eng foydali 20 ta IT loyiha](eng-foydali-it-loyihalar.md)
+> **Shuningdek:** [amalga oshirish rejasi va xarajatlar (PDF)](ustozlar-uchun-10-startap-reja.pdf) · [O'zbekiston uchun eng foydali 20 ta IT loyiha](eng-foydali-it-loyihalar.md) · [50 ta noodatiy IT biznes g'oyasi (PDF)](50-noodatiy-it-biznes-goyasi.pdf)
 
 ## Mundarija
 
